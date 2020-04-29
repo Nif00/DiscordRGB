@@ -1,4 +1,3 @@
-/* Old Loading
 @keyframes Load4 {
     0% {
         -webkit-transform: scale(0);
@@ -18,9 +17,8 @@
         transform: rotate(-360deg) scale(1);
 		opacity:1;
     }
-} */
+}
 
-/* 
 @keyframes DropDown {
   from {
       transform: translate(0, 100vh);
@@ -31,7 +29,6 @@
       opacity: 1;
   }
 } 
-*/
 
 @keyframes Spin {
   0% {
